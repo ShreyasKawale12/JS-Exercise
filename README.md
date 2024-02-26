@@ -1,3 +1,5 @@
+### index2.html is the main html file
+
 # Exercise 1
 ## Histogram
 Clone the repository and make the histogram using utility functions in draw.js file using the data in histogram_data.js file
